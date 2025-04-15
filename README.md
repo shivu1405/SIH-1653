@@ -49,8 +49,9 @@ Efficient & Scalable: Automates key tasks, enabling faster recruitment for high-
 Informed Decisions: AI insights and real-time scoring help DRDO select the best candidates quickly and accurately.
 
 This solution revolutionizes the interview process, combining AI technology with expert feedback to find the best talent for DRDO’s critical roles.
-![Uploading architecture.png…]()
 
+
+![architecture](https://github.com/user-attachments/assets/1002f4e5-003f-40db-9fd8-4836b6fec843)
 
 
 ## Use Cases
