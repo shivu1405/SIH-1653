@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
+# Date: 15.04.2025
+## Register Number: 212224220098
 ## Name:
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
@@ -49,63 +49,8 @@ Efficient & Scalable: Automates key tasks, enabling faster recruitment for high-
 Informed Decisions: AI insights and real-time scoring help DRDO select the best candidates quickly and accurately.
 
 This solution revolutionizes the interview process, combining AI technology with expert feedback to find the best talent for DRDO’s critical roles.
-+----------------------------------------------------+
-|                    **User Interface**             |
-|  +--------------------------------------------+    |
-|  |    Web Portal / Mobile App for Interviewers |    |
-|  |   (Panelists & Experts)                    |    |
-|  +--------------------------------------------+    |
-|  +--------------------------------------------+    |
-|  |    Web Portal / Mobile App for Candidates   |    |
-|  |   (Virtual Boardroom with Video Conferencing)|    |
-|  +--------------------------------------------+    |
-+---------------------+--------------------------+--+
-                      |
-                      v
-              +-----------------+                
-              |  **Question DB**|       <--- Dynamic, Role-Specific, Customizable
-              |  (Tech & Managerial)              Question Bank
-              +-----------------+  
-                      |
-                      v
-               +-----------------+   
-               |  **AI Engine**  |       <--- NLP, ML Models, & Algorithmic Scoring
-               |   (Question Matching & Response Evaluation)   |
-               +-----------------+  
-                      |
-                      v
-             +---------------------+  
-             | **Candidate Profile** | <--- Stored Candidate Information (Resumes, Skills)
-             |   & Job Description   |
-             +---------------------+
-                      |
-                      v
-            +------------------------+
-            |   **Assessment Engine** | 
-            | (Evaluates Question &   |
-            |   Response Relevancy)   |
-            +------------------------+
-                      |
-                      v
-          +--------------------------+
-          | **Scoring & Feedback DB** | <--- Stores Relevancy Scores, Panelist Input
-          +--------------------------+
-                      |
-                      v
-            +----------------------------+
-            |    **Panelist Interface**   | <--- User Input (Soft Skills, Subjective Feedback)
-            |   (Real-Time Feedback & Review)|
-            +----------------------------+
-                      |
-                      v
-            +--------------------------+
-            |   **Final Candidate Report**|  <--- Generates Final Evaluation (Knowledge, Suitability)
-            +--------------------------+
-                      |
-                      v
-           +---------------------------+
-           | **Admin & Analytics Dashboard**| <--- Provides Insights, Trends, & Analytics for DRDO
-           +---------------------------+
+![Uploading architecture.png…]()
+
 
 
 ## Use Cases
