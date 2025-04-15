@@ -104,6 +104,7 @@ What happens: The system learns from past interviews to improve its AI models.
 
 Why it matters: Ensures the system keeps evolving for better results with each interview cycle.
 
+![use cas](https://github.com/user-attachments/assets/0f75e95a-e6c2-4f6f-afbb-f2eac49ffc9b)
 
 
 
